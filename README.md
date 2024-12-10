@@ -1,17 +1,23 @@
 # Bloodbank management system
 
-Clone the repository:
+Download the zip file 
 
-git clone https://github.com/yashvyas1111/Bloodbank.git
+After that open project directory in terminal
+
+cd Bloodbankmgmt
+
+after download the zip file open terminal and create virtual environment (optional)
+
+python -m venv venv
+source venv/bin/activate  # On Linux/Mac
+venv\Scripts\activate     # On Windows
 
 
-Navigate to the project directory:
 
-cd <repository-name>
-
-Install dependencies:
+install the dependencies
 
 pip install -r requirements.txt
+
 
 Apply database migrations:
 
