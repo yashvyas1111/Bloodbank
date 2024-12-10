@@ -2,7 +2,7 @@
 
 Clone the repository:
 
-git clone https://github.com/<yashvyas1111>/<Bloodbank>.git
+git clone https://github.com/yashvyas1111/Bloodbank.git
 
 
 Navigate to the project directory:
